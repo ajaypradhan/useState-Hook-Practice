@@ -19,4 +19,3 @@ console.log(time);
 // function sayHi() {
 //   console.log("Hey");
 // }
-// setInterval(sayHi, 1000);
